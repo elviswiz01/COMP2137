@@ -1,0 +1,12 @@
+---Host/Student info----
+
+Running on Fri Feb 28 05:36:08 PM EST 2025
+Run by elvis - () on host
+ Static hostname: generic-vm
+      Machine ID: b6301f996e924b3dbeabab6645ae5973
+Operating System: Ubuntu 24.04.1 LTS
+9ac9629390cbcae160fd061a74ce1178  ./check-assign2-script.sh - d41d8cd98f00b204e9800998ecf8427e  -
+------------------------
+
+---Start of Assignment2.sh Check------
+Failed to retrieve makecontainers.sh script
