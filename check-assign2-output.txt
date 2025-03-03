@@ -1,6 +1,6 @@
 ---Host/Student info----
 
-Running on Fri Feb 28 05:36:08 PM EST 2025
+Running on Mon Mar  3 02:32:08 PM EST 2025
 Run by elvis - () on host
  Static hostname: generic-vm
       Machine ID: b6301f996e924b3dbeabab6645ae5973
@@ -9,4 +9,10 @@ Operating System: Ubuntu 24.04.1 LTS
 ------------------------
 
 ---Start of Assignment2.sh Check------
-Failed to retrieve makecontainers.sh script
+---Running makecontainers.sh----------
+# Host server1-mgmt found: line 6
+/home/elvis/.ssh/known_hosts updated.
+Original contents retained as /home/elvis/.ssh/known_hosts.old
+---Retrieving assignment2.sh script---
+Retrieved assignment2 script
+Failed to copy assignment2.sh to server1
